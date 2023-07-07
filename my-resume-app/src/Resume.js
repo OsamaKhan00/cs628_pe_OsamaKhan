@@ -4,7 +4,7 @@ import './Resume.css';
 function Resume() {
   return (
     <div className="resume">
-      {/* Add your resume content here */}
+      <div className="Resume-css"> Hello</div>
     </div>
   );
 }
