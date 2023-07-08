@@ -1,5 +1,54 @@
 .Resume-css {
     background-color: rgba(189, 251, 4);
+    color: black;
+
+    font-family: Arial, sans-serif;
+    text-align: center; 
+
     /* Add additional styling rules as per the requirements */
   }
+
+  .resume-header {
+    text-align: center; 
+  }
+
+  .resume-section {
+   
+    text-align: center; /* Add this line to reset text alignment for sections */
+  }
+
+  .resume-section h2 {
+    font-size: 18px;
+    
+    text-align: center; /* Add this line to align section headings centrally */
+  }
+  
+  .resume-section ul {
+    list-style-type: square;
+    padding-left: 20px;
+    text-align: center; /* Add this line to reset text alignment for lists */
+  }
+  
+  .resume-section p,
+  .resume-section li {
+    text-align: center; /* Add this line to reset text alignment for paragraphs and list items */
+  }
+
+  .resume {
+    width: 21cm;
+    height: 29.7cm;
+    margin: 0 auto;
+    padding: 2cm;
+    box-sizing: border-box;
+  }
+  
+  @media print {
+    .resume {
+      position: relative;
+      overflow: hidden;
+      page-break-after: always;
+    }
+  }
+  
+  
   
