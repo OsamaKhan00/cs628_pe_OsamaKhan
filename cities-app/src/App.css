@@ -1,0 +1,24 @@
+/* src/App.css */
+
+.app-container {
+  text-align: center;
+  padding: 20px;
+}
+
+.cities-list-container {
+  max-width: 500px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.city-details-container {
+  max-width: 500px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.add-city-form-container {
+  max-width: 500px;
+  margin: 0 auto;
+  text-align: center;
+}
