@@ -71,4 +71,12 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 ### Additional resources that I used as reference in the exercise
 
+ 
+
+https://medium.com/@angela.taylor87/building-a-city-search-app-with-react-js-bootstrap-and-axios-dee5f69457c1 
+
+chatgpt 
+
+https://stackoverflow.com/questions/51241664/only-want-cities-and-related-countries-in-suggestion-using-react-places-autocomp 
+
 
